@@ -37,7 +37,18 @@ A comprehensive financial API built with Python, Django, and Django Rest Framewo
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/financial_api.git
-   cd financial_api
+### 1. Clone the Repository
+
+Begin by cloning the repository to your local machine:
+ 
+```bash
+git clone https://github.com/Muhammad0074/Pet-Classification-Project.git
+cd Pet-Classification-Project
+
+```
+### 2. open app.py terminal
+
+- create virtual environment `pip install virtualenv venv`
+- activate venv  `venv/Scripts/activate`
+- install requirements  `pip install -r requirements.txt`
+- run application  `python app.py`
